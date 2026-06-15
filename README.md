@@ -1,5 +1,7 @@
 # RPN Calculator — QA / SDET Interview Exercise
 
+[![Tests](https://img.shields.io/badge/tests-30%20passing-brightgreen)](./TESTSUITS.md)
+
 A tiny Express HTTP API that evaluates [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) expressions.
 
 Your task during the interview: **write tests for this service**. Pick whatever test runner / HTTP client / framework you're comfortable with (Jest, Vitest, Mocha + supertest, Playwright API tests, Postman/Newman, plain `curl` scripts — anything goes). Be ready to talk through *what* you chose to cover and *why*.
